@@ -1,5 +1,5 @@
 import sys
-sys.path.insert(0,'C:/Users/Namratha Thata/Documents/AI Grading/PuzzleGame Framework/PuzzleGame Framework')
+sys.path.insert(0,'C:/Users/NikitaPrasad/Documents/AI Grading/PuzzleGame Framework/PuzzleGame Framework')
 import time
 from copy import deepcopy
 
